@@ -6,11 +6,13 @@
   <a href="https://github.com/Talebian12/Talebian12/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/talebian12/talebian12"></a>
 </p>
 
----
+<br>
 
 #### Something about me:
 - 🔭 I’m working on [🖥 OS](https://github.com/talebian12/os)
 - 📖 I’m currently learning C/C++ and Rust
+
+<br>
 
 <div align="center">
   
@@ -22,6 +24,8 @@
 | Dots                           | Dotfiles of my old Arch Linux setup                 | <p align="center" vlign="center">[![](https://img.shields.io/badge/%F0%9F%90%A7---yellow)](https://github.com/talebian12/dots)</p> |
 
 </div>
+
+<br>
 
 ---
 <br>
