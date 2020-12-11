@@ -14,8 +14,6 @@
 - 🐧 I'm using Arch Linux ❤️
 
 <br>
-
-<div align="center">
   
 | <p align="center" vlign="center">Projects</p> | <p align="center" vlign="center">Description</p>                   | <p align="center" vlign="center">Link</p>                                                                                          |
 |--------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
@@ -24,11 +22,18 @@
 | OS                             | OS made in Rust following https://os.phil-opp.com/ | <p align="center" vlign="center">[![](https://img.shields.io/badge/%F0%9F%96%A5---yellow)](https://github.com/talebian12/os)</p>   |
 | Dots                           | Dotfiles of my old Arch Linux setup                 | <p align="center" vlign="center">[![](https://img.shields.io/badge/%F0%9F%90%A7---yellow)](https://github.com/talebian12/dots)</p> |
 
-</div>
+##
+
+<br>
+<h3 align="center">Stats</h3>
+<br>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=talebian12&show_icons=true&theme=onedark&locale=en"/></p>
 
 <br>
 
----
+##
+
 <br>
 <p align="center"><b>☭ Программисты всех стран, соединяйтесь! ☭</b></p>
 <br>
