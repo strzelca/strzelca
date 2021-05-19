@@ -1,4 +1,4 @@
-<h1 align=center>Nikko (@talebian12)</h1>
+<h1 align=center>Polina (@talebian12)</h1>
 
 <p align="center">
   <a href="https://aur.archlinux.org/packages/bottles-git"><img alt="AUR maintainer" src="https://img.shields.io/badge/maintainer-bottles--git-aqua"></a>
