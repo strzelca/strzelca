@@ -11,7 +11,7 @@
 #### Something about me:
 - 🔭 I’m working on [🖥 OS](https://github.com/talebian12/os)
 - 📖 I’m currently learning C/C++ and Rust
-- 🐧 I'm using Arch Linux ❤️
+- 🐧 I'm using Artix Linux ❤️
 
 <br>
   
