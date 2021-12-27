@@ -1,4 +1,4 @@
-<h1 align=center>Polina (@talebian12)</h1>
+<h1 align=center>Polina (@owosrl)</h1>
 
 <p align="center">
   <a href="https://t.me/talebian12"><img alt="AUR maintainer" src="https://img.shields.io/badge/Telegram-%40talebian12-red"></a>
