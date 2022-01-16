@@ -38,5 +38,6 @@
 ##
 
 <br>
-<p align="center"><b>☭ Программисты всех стран, соединяйтесь! ☭</b></p>
+<p align="center"><b>☭ Prohramistim na vsim stranata, sŭvezdite! ☭</b></p>
+<p align="center"><b>☭ Програмістім на всім страната, съвездіте! ☭</b></p>
 <br>
