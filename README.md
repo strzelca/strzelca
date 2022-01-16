@@ -1,7 +1,7 @@
 <h1 align=center>Polina (@owosrl)</h1>
 
 <p align="center">
-  <a href="https://t.me/talebian12"><img alt="AUR maintainer" src="https://img.shields.io/badge/Telegram-%40talebian12-red"></a>
+  <a href="https://t.me/owosrl"><img alt="AUR maintainer" src="https://img.shields.io/badge/Telegram-%40owosrl-red"></a>
   <a href="https://github.com/Talebian12/Talebian12/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/talebian12/talebian12"></a>
 </p>
 
