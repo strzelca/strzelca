@@ -1,8 +1,10 @@
 <h1 align=center>Polina (@owosrl)</h1>
 
 <p align="center">
-  <a href="https://t.me/owosrl"><img alt="AUR maintainer" src="https://img.shields.io/badge/Telegram-%40owosrl-red"></a>
-  <a href="https://github.com/Talebian12/Talebian12/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/talebian12/talebian12"></a>
+  <a href="https://t.me/owosrl"><img src="https://img.shields.io/badge/Telegram-%40owosrl-red"></a>
+  <a href="https://www.reddit.com/user/ionondormirda"><img src="https://img.shields.io/badge/Reddit-u%2Fowosrl-FF5733"></a>
+  <a href="https://www.instagram.com/owosrl/"><img src="https://img.shields.io/badge/Instagram-%40owosrl-F31479"></a>
+  <a href="https://twitter.com/owosrl"><img src="https://img.shields.io/badge/Twitter-%40owosrl-14C3F3"></a>
 </p>
 
 <br>
