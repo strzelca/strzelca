@@ -27,11 +27,11 @@
 <h3 align="center">Stats</h3>
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=talebian12&show_icons=true&theme=onedark&locale=en"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=owosrl&show_icons=true&theme=onedark&locale=en"/></p>
 <br>
 <h3 align="center">Top Languages</h3>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talebian12&show_icons=true&theme=onedark&locale=en&langs_count=5&hide=Vim%20script,html,CMake,Makefile"></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owosrl&show_icons=true&theme=onedark&locale=en&langs_count=5&hide=Vim%20script,html,CMake,Makefile"></p>
 
 <br>
 
