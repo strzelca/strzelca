@@ -10,7 +10,7 @@
 <br>
 
 #### Something about me:
-- 🔭 I’m working on nothing 🦥
+- 🔭 I’m working on [Slovęnjska Mova](https://git.hypercute.eu/owosrl/slovenjska-mova)
 - 📖 I’m currently learning Networking
 - 💻 I'm using Arch Linux, Windows and MacOS
 
@@ -19,9 +19,8 @@
 | <p align="center" vlign="center">Projects</p> | <p align="center" vlign="center">Description</p>                   | <p align="center" vlign="center">Link</p>                                                                                          |
 |--------------------------------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Website                        | My personal website (to do yet) 👉👈                          | <p align="center" vlign="center">[![](https://img.shields.io/badge/%F0%9F%A4%97---red)](https://hypercute.eu)</p>                    |
-| Projects                       | Websites for my projects on Github Pages            | <p align="center" vlign="center">[![](https://img.shields.io/badge/%F0%9F%8C%8E---blue)](https://wp.hypercute.eu)</p>         |
+| Projects                       | You can find all my projects at my hosting            | <p align="center" vlign="center">[![](https://img.shields.io/badge/%F0%9F%8C%8E---blue)](https://git.hypercute.eu/owosrl)</p>         |
 | OS                             | OS made in Rust following https://os.phil-opp.com/ | <p align="center" vlign="center">[![](https://img.shields.io/badge/%F0%9F%96%A5---yellow)](https://github.com/talebian12/os)</p>   |
-| Dots                           | Dotfiles of my old Arch Linux setup                 | <p align="center" vlign="center">[![](https://img.shields.io/badge/%F0%9F%90%A7---yellow)](https://github.com/talebian12/dots)</p> |
 
 ##
 
@@ -40,6 +39,5 @@
 ##
 
 <br>
-<p align="center"><b>☭ Prohramistim na vsim stranata, sŭvezdite! ☭</b></p>
-<p align="center"><b>☭ Програмістім на всім страната, съвездіте! ☭</b></p>
+<p align="center"><b>🇺🇦 Słava Ukrainio, Heroię Słava 🇺🇦</b></p>
 <br>
