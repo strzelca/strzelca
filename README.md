@@ -12,7 +12,7 @@
 #### Something about me:
 - 🔭 I’m working on [Slovęnjska Mova](https://git.hypercute.eu/owosrl/slovenjska-mova)
 - 📖 I’m currently learning Networking
-- 💻 I'm using Arch Linux, Windows and MacOS
+- 💻 I'm using Arch Linux and Windows
 
 <br>
   
