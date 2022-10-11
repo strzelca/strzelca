@@ -8,7 +8,7 @@
 <br>
 
 #### Something about me:
-- 🔭 I’m working on Terranova Project (School)
+- 🔭 I’m working on [La Notte 24 Ore](https://github.com/owosrl/lanotte24ore) (Terranova School Project)
 - 📖 I’m currently learning Networking
 - 💻 I'm using MacOS, Fedora and Windows
 
