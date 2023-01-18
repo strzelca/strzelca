@@ -10,7 +10,7 @@
 #### Something about me:
 - 🔭 I’m working on [La Notte 24 Ore](https://github.com/owosrl/lanotte24ore) (Terranova School Project)
 - 📖 I’m currently learning Networking
-- 💻 I'm using MacOS, Gentoo and Windows
+- 💻 I'm using MacOS, Arch and Windows
 
 <br>
 
