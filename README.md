@@ -9,11 +9,16 @@
 <br>
 
 #### Something about me:
-- 🔭 Working on [La Notte 24 Ore](https://github.com/owosrl/lanotte24ore) (Terranova School Project)
+- 🔭 Working on [SklaviaBot](https://github.com/owosrl/sklaviabot)
 - 📖 Learning Networking
 - 💻 MacOS, Arch and ~Windows~
 
 <br>
+
+#### My projects:
+- [La Notte 24 Ore](https://github.com/owosrl/lanotte24ore)
+- [SklaviaBot](https://github.com/owosrl/sklaviabot)
+- [BPU](https://github.com/owosrl/Balkan-Processing-Unit)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=owosrl&show_icons=true&theme=onedark&locale=en"/></p>
 
