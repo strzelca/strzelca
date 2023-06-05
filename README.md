@@ -9,7 +9,7 @@
 <br>
 
 #### Something about me:
-- 🔭 Working on [SklaviaBot](https://github.com/owosrl/sklaviabot)
+- 🔭 Working on [SklavaBot](https://github.com/owosrl/sklavabot)
 - 📖 Learning Networking
 - 💻 MacOS, Arch and ~Windows~
 
