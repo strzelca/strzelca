@@ -9,17 +9,17 @@
 <br>
 
 #### Something about me:
-- 🔭 Working on [SklavaBot](https://github.com/owosrl/sklavabot)
+- 🔭 Working on [SklavaBot](https://github.com/strzelca/sklavabot)
 - 📖 Learning Networking
 - 💻 MacOS, Arch and ~Windows~
 
 <br>
 
 #### My projects:
-- [La Notte 24 Ore](https://github.com/owosrl/lanotte24ore)
-- [SklaviaBot](https://github.com/owosrl/sklaviabot)
-- [BPU](https://github.com/owosrl/Balkan-Processing-Unit)
+- [La Notte 24 Ore](https://github.com/strzelca/lanotte24ore)
+- [SklavaBot](https://github.com/strzelca/sklavabot)
+- [BPU](https://github.com/strzelca/Balkan-Processing-Unit)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=owosrl&show_icons=true&theme=onedark&locale=en"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=strzelca&show_icons=true&theme=onedark&locale=en"/></p>
 
 <br>
