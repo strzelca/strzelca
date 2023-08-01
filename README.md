@@ -1,9 +1,8 @@
 <p align="center">
-  <a href="https://t.me/owosrl"><img src="https://img.shields.io/badge/Telegram-%40owosrl-violet"></a>
   <a href="https://t.me/strzelca"><img src="https://img.shields.io/badge/Telegram-%40strzelca-pink"></a>
-  <a href="https://www.instagram.com/owosrl/"><img src="https://img.shields.io/badge/Instagram-%40owosrl-F31479"></a>
-  <a href="https://www.reddit.com/user/ionondormirda"><img src="https://img.shields.io/badge/Reddit-u%2Fionondormirda-FF5733"></a>
-  <a href="https://twitter.com/owosrl"><img src="https://img.shields.io/badge/Twitter-%40owosrl-14C3F3"></a>
+  <a href="https://matrix.to/#/@strzelca:bitchat.dev" class="bg-none"><img src="https://img.shields.io/badge/Matrix-%40strzelca%3Abitchat.dev-blue"></a>
+  <a href="https://www.instagram.com/strzelca_"><img src="https://img.shields.io/badge/Instagram-%40strzelca_%5f-F31479"></a>
+  <a href="https://discord.com/users/361577689015910411" class="bg-none"><img src="https://img.shields.io/badge/Discord-%40strzelca-blueviolet"></a>  
 </p>
 
 <hr>
