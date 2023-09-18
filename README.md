@@ -8,7 +8,7 @@
 <hr>
 
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,rust,bash,vim,vscode,linux,raspberrypi,git">
+  <img src="https://skillicons.dev/icons?i=c,rust,vim,linux,git">
 </p>
 <p align=center>
   <img src="https://media.tenor.com/2MguXhdgdb0AAAAC/cat-hat-bongocat.gif" height=280>
