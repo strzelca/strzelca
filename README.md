@@ -14,7 +14,7 @@
 </p>
     
 #### Something about me:
-- 🔭 Working on [SklavaBot](https://github.com/strzelca/sklavabot)
+- 🔭 Working on [EmuCPU](https://github.com/strzelca/EmuCPU)
 - 📖 Learning Networking
 - 💻 MacOS, Arch and Windows
 
