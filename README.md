@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://t.me/strzelca"><img src="https://img.shields.io/badge/Telegram-%40strzelca-pink"></a>
-  <a href="https://matrix.to/#/@strzelca:bitchat.dev" class="bg-none"><img src="https://img.shields.io/badge/Matrix-%40strzelca%3Abitchat.dev-blue"></a>
   <a href="https://www.instagram.com/strzelca_"><img src="https://img.shields.io/badge/Instagram-%40strzelca_%5f-F31479"></a>
   <a href="https://discord.com/users/361577689015910411" class="bg-none"><img src="https://img.shields.io/badge/Discord-%40strzelca-blueviolet"></a>  
 </p>
@@ -44,14 +43,13 @@
 <br>
 
 #### My projects:
+- [EmuCPU](https://github.com/strzelca/EmuCPU)
 - [La Notte 24 Ore](https://github.com/strzelca/lanotte24ore)
 - [SklavaBot](https://github.com/strzelca/sklavabot)
-- [BPU](https://github.com/strzelca/Balkan-Processing-Unit)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=strzelca&theme=calm"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strzelca&layout=donut&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=strzelca&show_icons=true&theme=github_dark_dimmed"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strzelca&layout=compact&theme=github_dark_dimmed"/>
 </p>
 <br>
