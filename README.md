@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=c,rust,vim,linux,git">
 </p>
 <p align=center>
-  <img src="https://media.tenor.com/2MguXhdgdb0AAAAC/cat-hat-bongocat.gif" height=280>
+  <img src="https://media.tenor.com/2MguXhdgdb0AAAAC/cat-hat-bongocat.gif" height=280 width=280>
 </p>
     
 #### Something about me:
