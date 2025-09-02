@@ -15,12 +15,3 @@
 #### Something about me:
 - 📖 Learning Computer Science and Networking
 - 💻 MacOS and Fedora
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=strzelca&show_icons=true&theme=github_dark_dimmed"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strzelca&layout=compact&theme=github_dark_dimmed"/>
-</p>
-<br>
